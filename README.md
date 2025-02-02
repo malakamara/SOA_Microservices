@@ -1,6 +1,7 @@
-Overview
+<b>Overview</b>
 
 This project demonstrates how to interact with multiple APIs to retrieve data. It focuses on three APIs: the Random User Generator API, the OpenWeatherMap API, and the NASA Earth Imagery API. Each API serves a specific purpose and highlights various methods of making requests and handling responses.
+
 APIs :
     OpenWeatherMap API
     Description: This API provides weather information for a given city.
